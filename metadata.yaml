@@ -1,0 +1,5 @@
+homepage: "https://pluszero.co.kr/"
+documentation: "https://github.com/pluszero-global/GA4-shared-parameters-for-GA4-for-javascript-interface"
+versions:
+  - sha: 9bf5a82f4e737d40069115cb2b41c7e30251b4a0
+    changeNotes: First Version
