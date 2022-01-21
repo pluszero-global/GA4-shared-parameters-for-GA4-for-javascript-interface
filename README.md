@@ -1,0 +1,1 @@
+# GA4-shared-parameters-for-GA4-for-javascript-interface
